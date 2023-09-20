@@ -34,7 +34,6 @@
         app:layout_constraintBottom_toTopOf="@id/btnGenerate"
         />
 
-
     <TextView
         android:id="@+id/num2"
         android:layout_width="0dp"
